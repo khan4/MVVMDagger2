@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Dagger2PracticleExample</string>
+    <string name="LogOut">Log Out</string>
+</resources>
